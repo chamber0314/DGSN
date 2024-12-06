@@ -1,2 +1,2 @@
 # DGSN
-DGSN model
+The code for Dynamic Shapelet Generation with Disentangled Generative Shapelet Network.
